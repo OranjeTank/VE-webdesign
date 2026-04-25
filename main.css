@@ -1,0 +1,74 @@
+
+.hero{
+    background: linear-gradient(135deg, #007bff, #00c6ff);
+    padding: 120px 20px;
+    color: white;
+    border-radius: 1cm;
+}
+.hero-content {
+    text-decoration: none;
+    text-align: center;
+}
+.hero-content h1{
+    font-size: 75px;
+}
+p {
+    font-size: large;
+}
+.wat_ik_doe{
+    padding: 60px 20px;
+    text-align: center;
+}
+.wat_ik_bied{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+.service-box {
+    background: white;
+    padding: 25px;
+    width: 280px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+.mijn_websites{
+    background: linear-gradient(135deg, #007bff, #00c6ff);
+    border-radius: 1cm;
+    text-align: center;
+}
+.service-box h3{
+    font-size: 40px;
+}
+.wat_ik_doe h2{
+    font-size: 50px;
+}
+.contacteer_me a{
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: chocolate;
+    padding: 15px;
+    border-radius: 1cm;
+}
+.contacteer_me a:hover{
+    color: orange;
+    
+}
+.footer{
+    padding: 120px;
+}
+.hero-content a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #000000;
+}
+.hero-content a:hover{
+    color:rgb(0, 102, 255) ;
+}
+.image{
+    float: inline-start;
+    width: 200px;
+    height: 200px;
+}
