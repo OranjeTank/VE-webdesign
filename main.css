@@ -52,6 +52,9 @@ p {
     padding: 15px;
     border-radius: 1cm;
 }
+.contacteer_me{
+    text-align: center;
+}
 .contacteer_me a:hover{
     color: orange;
     
@@ -60,12 +63,9 @@ p {
     padding: 120px;
 }
 .hero-content a{
-    color: #000000;
     text-decoration: none;
     font-size: 20px;
-    background-color: chocolate;
-    padding: 15px;
-    border-radius: 1cm;
+    color: #000000;
 }
 .hero-content a:hover{
     color:rgb(0, 102, 255) ;
@@ -74,4 +74,30 @@ p {
     float: inline-start;
     width: 200px;
     height: 200px;
+}
+.demo-site{
+    text-align: center;
+    margin: 1.5cm;
+    padding: 1cm;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    margin: 0 auto;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 1cm;
+    margin-bottom: 1.5cm;
+}
+.demo-site a{
+    text-decoration: none;
+    background-color: chocolate;
+    border-radius: 1cm;
+    color: #000000;
+    padding: 15px;
+    font-size: 20px;
+}
+.demo-site h2{
+    font-size: 50px
+}
+.footer{
+    text-align: center;
 }
